@@ -1,9 +1,8 @@
 # Chat-Application-Website
-This project, "Chat Application Website using PHP/MySQL", is designed to provide a basic yet comprehensive messaging platform that allows users to exchange messages seamlessly in a real-time environment.
 
-Implement a secure login and signup system for user authentication and account
+* Implement a secure login and signup system for user authentication and account
 management.
- Enable real-time messaging for an interactive and responsive communication
+* Enable real-time messaging for an interactive and responsive communication
 experience.
  Provide an intuitive interface for managing and navigating past and new conversations.
  Allow users to search for others by name or username to connect easily.
