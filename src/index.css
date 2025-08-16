@@ -1,0 +1,26 @@
+/* Example for mobile-first approach */
+body {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Media query for tablet */
+@media (min-width: 600px) {
+  /* Adjust layout for tablets */
+}
+
+/* Media query for desktop */
+@media (min-width: 1024px) {
+  /* Adjust layout for larger screens */
+}
